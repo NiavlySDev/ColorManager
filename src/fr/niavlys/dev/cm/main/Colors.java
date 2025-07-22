@@ -1,4 +1,4 @@
-package cm.main;
+package fr.niavlys.dev.cm.main;
 
 public enum Colors {
     RED("#FF0000"),

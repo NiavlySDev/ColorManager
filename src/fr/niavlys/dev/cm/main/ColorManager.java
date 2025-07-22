@@ -1,4 +1,4 @@
-package cm.main;
+package fr.niavlys.dev.cm.main;
 
 import net.kyori.adventure.text.format.TextColor;
 
